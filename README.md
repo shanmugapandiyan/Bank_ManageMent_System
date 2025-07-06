@@ -69,7 +69,7 @@ Bank_ManageMent_System/
 ## 🙋‍♂️ Author
 
 **Shanmugapandiyan A**  
-Feel free to explore more on [GitHub](https://github.com/your-username)
+Feel free to explore more on [GitHub](https://https://github.com/shanmugapandiyan)
 
 ---
 
